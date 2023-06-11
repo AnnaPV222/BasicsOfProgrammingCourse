@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Programm/vec/main.c
+vector.h
+F:/Programm/vec/vector.h
+assert.h
+-
+
+F:/Programm/vec/vector.c
+vector.h
+F:/Programm/vec/vector.h
+
+F:/Programm/vec/vector.h
+ctype.h
+-
+malloc.h
+-
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+

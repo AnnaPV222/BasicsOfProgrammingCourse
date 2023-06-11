@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/vec.dir/main.c.obj"
+  "CMakeFiles/vec.dir/vector.c.obj"
   "libvec.dll.a"
   "vec.exe"
   "vec.exe.manifest"

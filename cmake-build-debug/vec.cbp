@@ -77,6 +77,12 @@
 		<Unit filename="F:/Programm/vec/main.c">
 			<Option target="vec"/>
 		</Unit>
+		<Unit filename="F:/Programm/vec/vector.c">
+			<Option target="vec"/>
+		</Unit>
+		<Unit filename="F:/Programm/vec/vector.h">
+			<Option target="vec"/>
+		</Unit>
 		<Unit filename="F:/Programm/vec/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
